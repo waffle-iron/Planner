@@ -4,5 +4,8 @@
 	"repository": "https://github.com/HackathonPlanner/Planner",
 	"keywords": ["hackathon", "rails", "university"],
 	"success_url": "/welcome",
-	"addons": []
+	"addons": [],
+	"scripts": {
+		"postdeploy": "bundle exec rake db:migrate"
+	}
 }
