@@ -2,7 +2,7 @@
 	"name": "Hackathon Planner",
 	"description": "Plan your university or corporate hackathons with ease",
 	"repository": "https://github.com/HackathonPlanner/Planner",
-	"keywords": ["hackathon", "rails", "university"]
+	"keywords": ["hackathon", "rails", "university"],
 	"success_url": "/welcome",
 	"addons": []
 }
